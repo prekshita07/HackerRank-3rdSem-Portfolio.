@@ -72,7 +72,7 @@ https://www.hackerrank.com/profile/prekshiktaninne1
 
 ### Dynamic Array
 
-![Dynamic Array](dynamic-array.png)
+
 
 ### Time Conversion
 
