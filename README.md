@@ -1,20 +1,58 @@
 # HackerRank 3rd Semester Portfolio
 
-## Activity 8: HackerRank Algorithmic Problem-Solving & Portfolio Integration
+## Student Information
 
-This repository contains my solutions for the five mandatory HackerRank problems completed as part of Activity 8.
-
-## Problems Solved
-
-1. Diagonal Difference
-2. Dynamic Array
-3. Time Conversion
-4. Compare the Triplets
-5. Sparse Arrays
+**Name:** PREKSHITA  
+**Course:** B.Tech Computer Science and Engineering  
+**Semester:** 3rd Semester  
+**University:** REVA University  
 
 ## HackerRank Profile
 
-HackerRank Profile: PASTE-YOUR-HACKERRANK-PROFILE-LINK-HERE
+**HackerRank Profile:**  
+https://www.hackerrank.com/profile/prekshiktaninne1
+
+## Problems Completed
+
+### 1. Diagonal Difference
+
+**Topic:** 2D Arrays / Matrices
+
+**Time Complexity:** O(N)
+
+**Space Complexity:** O(1)
+
+### 2. Dynamic Array
+
+**Topic:** Data Structures / Vectors
+
+**Time Complexity:** O(N + Q)
+
+**Space Complexity:** O(N)
+
+### 3. Time Conversion
+
+**Topic:** Strings & Logic
+
+**Time Complexity:** O(1)
+
+**Space Complexity:** O(1)
+
+### 4. Compare the Triplets
+
+**Topic:** Basic Implementation
+
+**Time Complexity:** O(1)
+
+**Space Complexity:** O(1)
+
+### 5. Sparse Arrays
+
+**Topic:** Hash Maps / Strings
+
+**Time Complexity:** O(N + Q)
+
+**Space Complexity:** O(N)
 
 ## Complexity Analysis
 
@@ -26,24 +64,32 @@ HackerRank Profile: PASTE-YOUR-HACKERRANK-PROFILE-LINK-HERE
 | Compare the Triplets | O(1) | O(1) |
 | Sparse Arrays | O(N + Q) | O(N) |
 
-## Accepted Submissions
+## HackerRank Accepted Submissions
 
-Screenshots of the accepted HackerRank submissions are included as part of the activity documentation.
+### Diagonal Difference
+
+![Diagonal Difference](diagonal-difference.png)
+
+### Dynamic Array
+
+![Dynamic Array](dynamic-array.png)
+
+### Time Conversion
+
+![Time Conversion](time-conversion.png)
+
+### Compare the Triplets
+
+![Compare the Triplets](compare-the-Triplets.png)
+
+### Sparse Arrays
+
+![Sparse Arrays](sparse-arrays.png)
 
 ## HackerRank Badge
 
-HackerRank badge screenshot will be added here after achieving the required badge.
+![HackerRank Badge](hackerrank-badge.png)
 
-## Technologies Used
+## Conclusion
 
-- C++
-- HackerRank
-- GitHub
-
-## Repository Structure
-
-- Diagonal-Difference/solution.cpp
-- Dynamic-Array/solution.cpp
-- Time-Conversion/solution.cpp
-- Compare-the-Triplets/solution.cpp
-- Sparse-Arrays/solution.cpp
+This activity helped me improve my problem-solving skills, algorithmic thinking, data structure knowledge, and understanding of time and space complexity. I also learned how to organize programming solutions and document them using GitHub.
